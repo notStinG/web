@@ -1,1 +1,25 @@
 # web
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset = "utf-8"/>
+    <title> ASRJC Computing </title>
+  </head>
+  <body>
+    <h1> Hi! Gerrard Choo here! </h1>
+    <p> I am a H2 Computing Student in Anderson Serangoon Junior College (ASRJC)</p>
+    <ol>
+      <h2> My Education Journey so far: </h2>
+      <li> Anglo-Chinese School (Junior) </li>
+      <li> Anglo-Chinese School (Barker Road) </li>
+      <li> Anderson Serangoon Junior College </li>
+    </ol>
+      <h3> Just to share my favourite emoji: &#x1F5A4</h3>
+    <form>
+      <label for="text"> Enter a motivational quote for today! :  </label>
+      <input type="text" id="text" name="text">
+      <button type="submit">Submit</button>
+    </form>
+    <img src="https://i.pinimg.com/originals/ab/a7/b3/aba7b3e17c2f0ac97607a15245922979.jpg" alt="Cute Chamber">
+  </body>
+</html>
